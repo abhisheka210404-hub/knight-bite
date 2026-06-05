@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knight Bite</title>
+    <link rel="stylesheet" href="./KB.css">
+    <link rel="icon" href="./Assets/brand_logo-2_footer.svg">
+</head>
+
+<body>
+    <div class="main">
+        <div class="page1">
+            <div class="navbar">
+                <img class="navimg" src="./Assets/brand-logo.svg" alt="">
+                <div class="anav">
+                    <a href="./KB Home.html">Home</a>
+                    <a href="./KB About.html">About</a>
+                    <a href="./KB Menu.html">Menu</a>
+                    <a href="./KB Franchise.html">Franchise</a>
+                </div>
+            </div>
+            <div class="ctn1">
+                <h1>ORDER LATE NIGHT MEALS</h1><br>
+                <div class="ctn">
+                    <div class="channel">
+                        <img id="img1" src="./Assets/apple play.png" alt="">
+                        <div class="linka">
+                            <a href="https://apps.apple.com/in/app/knight-bite-order-food-online/id1387840512">Download
+                                on the <br><span id="buttn">App Store</span></a>
+                        </div>
+                    </div>
+                    <div class="channel">
+                        <img id="img2" src="./Assets/google store.png" alt="">
+                        <div class="linka">
+                            <a
+                                href="https://play.google.com/store/apps/details?id=com.axndxsoftwarehub.knightbite&hl=en">GET
+                                IT ON <br><span id="buttn">Google Play</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="page2">
+            <h1 class="top">Features</h1>
+            <div class="content">
+                <div class="cn">
+                    <img src="./Assets/1.svg" alt="">
+                    <p>Last Night Delivery Till 4AM</p>
+                </div>
+                <div class="cn">
+                    <img src="./Assets/2.svg" alt="">
+                    <p>Order on App Or Call 080-4710607</p>
+                </div>
+                <div class="cn">
+                    <img src="./Assets/3.svg" alt="">
+                    <p>Delivery within 40 mins</p>
+                </div>
+                <div class="cn">
+                    <img src="./Assets/4.svg" alt="">
+                    <p>Food for every kind of hunger</p>
+                </div>
+                <div class="cn">
+                    <img src="./Assets/5.svg" alt="">
+                    <p>Place Bulk orders through App</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="page3">
+            <h1>ENJOY FOOD, ENJOY LIFE</h1>
+        </div>
+
+        <div class="page4">
+            <h1>BURGER, FRIES SHAKES AND MANY MORE</h1>
+            <div class="bn">
+                <button>See Full Menu</button>
+            </div>
+        </div>
+
+        <div class="page5">
+            <h1 class="hp">Connect with us</h1>
+            <div class="flexbody1">
+                <div class="boxt">
+                    <h1>Contact us</h1>
+                    <div class="b1">
+                        <img src="./Assets/mail_icon.svg" alt="">
+                        <p>knightbiteixe@gmail.com</p>
+                    </div>
+                    <div class="b1">
+                        <img src="./Assets/phone_icon.svg" alt="">
+                        <div class="buggy">
+                            <p>+91 8047106107</p>
+                            <p id="pgm">Available from 7pm to 4am</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="boxt">
+                    <h1>Quick Links</h1>
+                    <ul class="ulist">
+                        <li><a href="https://knight-bite.com/policies/">Delivery Policies</a></li>
+                        <li><a href="https://knight-bite.com/policies/">Privacy policies</a></li>
+                        <li id="li-st">Careers (Coming Soon)</li>
+                        <li><a href="">Franchise</a></li>
+                    </ul>
+                </div>
+                <div class="boxx">
+                    <p>Enter your email address below to be the first to know
+                        everything about us, where we'll be next,
+                        and how you can come along! <br>Join us on our adventure.</p>
+                    <div class="boxz">
+                        <input type="email" placeholder="Enter your email address">
+                        <button type="button" id="mailbt"><img id="imgbt" src="./Assets/media-email-btn.svg"
+                                alt=""></button>
+                    </div>
+
+                </div>
+            </div>
+            <div class="flexbody2">
+                <div class="b2">
+                    <h1>Head Office</h1>
+                    <p>Mangaluru--575001</p>
+                </div>
+                <div class="b2">
+                    <h1>Locations</h1>
+                    <ul>
+                        <li>Bengaluru, Mangalore, Manipal, Udupi</li>
+                    </ul>
+                </div>
+                <div class="box1">
+                    <h1>Follow us</h1>
+                    <div class="linkt">
+                        <a href="https://www.instagram.com/knight_bite/">
+                            <img src="./Assets/instagram.svg" alt="">
+                        </a>
+                        <a href="https://www.facebook.com/knightbiteIndia/?_rdr">
+                            <img src="./Assets/facebook.svg" alt="">
+                        </a>
+                        <a href="https://x.com/knight_bite">
+                            <img src="./Assets/twitter.svg" alt="">
+                        </a>
+                        <a href="https://www.linkedin.com/company/knightbite?originalSubdomain=lu">
+                            <img src="./Assets/linkedin.svg" alt="">
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCbUM8v6bBtX8mcVFazJ9IQw">
+                            <img src="./Assets/youtube.svg" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="foot">
+                <img src="./Assets/brand_logo-1_footer.svg" alt="">
+                <img src="./Assets/brand_logo-2_footer.svg" alt="">
+            </div>
+        </div>
+
+    </div>
+    <div class="footer">
+        <p>&copy; Copyright 2026. Knight Bite. All Rights Reserved</p>
+    </div>
+</body>
+
+</html>
